@@ -1,0 +1,46 @@
+_repo: The-Tuberculosis-Nurse-Her-Function-and-Her-Qualifications-A-Handbook-for-Practical-Workers-i__67640
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Hamman, Louis
+    alias: Hamman, Louis Virgil
+    birthdate: 1877
+    deathdate: 1946
+    gutenberg_agent_id: '54370'
+    url: http://www.gutenberg.org/2009/agents/54370
+    wikipedia: https://en.wikipedia.org/wiki/Louis_Hamman
+creator:
+  author:
+    agent_name: La Motte, Ellen N. (Ellen Newbold)
+    aliases:
+    - La Motte, Ellen Newbold
+    - Motte, Ellen N. la (Ellen Newbold)
+    birthdate: 1873
+    deathdate: 1961
+    gutenberg_agent_id: '8965'
+    url: http://www.gutenberg.org/2009/agents/8965
+    wikipedia: https://en.wikipedia.org/wiki/Ellen_La_Motte
+description: ''
+gutenberg_issued: '2022-03-17'
+identifiers:
+  gutenberg: '67640'
+  lccn: '15007972'
+language: en
+pgterms:marc904: https://archive.org/details/tuberculosisnurs00lamorich
+pgterms:marc905: 20190417132250lamotte
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :G. P. Putnam's sons,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tuberculosis -- Nursing'
+- !lcsh 'Tuberculosis -- Nursing -- United States -- History'
+- !lcc 'RC'
+- GITenberg
+title: "The Tuberculosis Nurse: Her Function and Her Qualifications\r\nA Handbook\
+  \ for Practical Workers in the Tuberculosis Campaign"
+url: http://www.gutenberg.org/ebooks/67640
