@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '54370'
     url: http://www.gutenberg.org/2009/agents/54370
     wikipedia: https://en.wikipedia.org/wiki/Louis_Hamman
+covers:
+- cover_type: archival
+  image_path: 67640-h/images/cover.jpg
 creator:
   author:
     agent_name: La Motte, Ellen N. (Ellen Newbold)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8965
     wikipedia: https://en.wikipedia.org/wiki/Ellen_La_Motte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67640#The-Tuberculosis-Nurse-Her-Function-and-Her-Qualifications-A-Handbook-for-Practical-Workers-i_
 gutenberg_issued: '2022-03-17'
 identifiers:
   gutenberg: '67640'
